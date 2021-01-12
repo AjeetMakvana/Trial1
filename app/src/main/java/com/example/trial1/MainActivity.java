@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     //Hello everyone.
     //hello there!
     //hello for the last time
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
         /* janni dushman  */
         /* halwa */
+        //The best way to become rich is to leave desire - "Anshul Negi"
     }
 }
